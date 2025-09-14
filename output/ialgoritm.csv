@@ -44,12 +44,12 @@ client_code,product
 43,credit
 44,cashloan
 45,accumulative
-46,credit
+46,cashloan
 47,travel
 48,cashloan
 49,travel
 50,saving
-51,accumulative
+51,cashloan
 52,accumulative
 53,travel
 54,saving
